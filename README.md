@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Thalles-Dev/Thalles-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dev-Thalles/Dev-Thalles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
